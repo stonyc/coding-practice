@@ -1,3 +1,5 @@
-# practice-notebooks
+# coding-practice
 
-Notebooks for competitive and non-competitive coding practice and challenges on https://hackerearth.com, https://hackerrank.com and others.
+Comprehensive list of `Python3` solutions for HackerEarth and HackerRank as I work my way through some coding practice. The solutions here are not guaranteed to be the best, but what I found to work.
+
+**Note:** Don't blame me for some of the less than ideal coding practices (eg. camel case) since I follow what is given by the respective sites.
