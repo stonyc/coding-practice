@@ -1,0 +1,7 @@
+https://www.hackerrank.com/challenges/weather-observation-station-7/problem
+
+```sql
+SELECT DISTINCT CITY FROM STATION WHERE POSITION('A' IN REVERSE(CITY))=1 \
+OR POSITION('E' IN REVERSE(CITY))=1 OR POSITION('I' IN REVERSE(CITY))=1 \
+OR POSITION('O' IN REVERSE(CITY))=1 OR POSITION('U' IN REVERSE(CITY))=1;
+```
