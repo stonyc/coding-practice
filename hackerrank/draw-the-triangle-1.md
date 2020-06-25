@@ -1,6 +1,6 @@
 https://www.hackerrank.com/challenges/draw-the-triangle-1
 
-**NOTE:** HackerRank doesn't all stored procedures using MySQL, so `WHILE` loop isn't possible without some trickery.**
+**NOTE:** HackerRank doesn't all stored procedures using MySQL, so `WHILE` loop isn't possible without some trickery.
 
 ```sql
 SELECT
